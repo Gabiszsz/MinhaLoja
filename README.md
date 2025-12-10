@@ -1,1 +1,2 @@
 # MinhaLoja
+Projeto realizado com linguagem de programação Java juntamente com Programação Orientada à Objetos. Foi desevolvido com banco de dados Mysql e com Interface Gráfica SWING.
